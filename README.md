@@ -1,13 +1,17 @@
 # DualPolishLearning
 
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mind-the-gap-polishing-pseudo-labels-for/semi-supervised-object-detection-on-coco-1)](https://paperswithcode.com/sota/semi-supervised-object-detection-on-coco-1?p=mind-the-gap-polishing-pseudo-labels-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mind-the-gap-polishing-pseudo-labels-for/semi-supervised-object-detection-on-coco-5)](https://paperswithcode.com/sota/semi-supervised-object-detection-on-coco-5?p=mind-the-gap-polishing-pseudo-labels-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mind-the-gap-polishing-pseudo-labels-for/semi-supervised-object-detection-on-coco-10)](https://paperswithcode.com/sota/semi-supervised-object-detection-on-coco-10?p=mind-the-gap-polishing-pseudo-labels-for)
+
+By Lei Zhang, Yuxuan Sun, Wei Wei
 
 ![](./teaser/framework.png)
 
 
 
-
-This repo is the official implementation of paper Mind the Gap: Polishing Pseudo labels for Accurate Semi-supervised Object Detection
+This repo is the official implementation of AAAI2023 paper ["Mind the Gap: Polishing Pseudo labels for Accurate Semi-supervised Object Detection"](https://arxiv.org/abs/2207.08185) on PyTorch.
 
 
 
